@@ -1,0 +1,25 @@
+.title {
+  font-family: "Caveat", cursive;
+  font-weight: 700;
+  font-size: 3rem;
+  text-align: center;
+  letter-spacing: 2px;
+  color: #333;
+}
+
+.notes-length {
+  text-align: end;
+  margin: 20px 50px 20px 0;
+}
+
+.notes-length span {
+  /* background-color: #44C767; */
+  background-color: #764F36;
+  color: #fff;
+  width: 20px;
+  height: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 0.9rem;
+  letter-spacing: 0.9px;
+}

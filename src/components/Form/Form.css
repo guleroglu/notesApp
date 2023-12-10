@@ -1,0 +1,94 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.form-note {
+  margin-top: 20px;
+  position: relative;
+}
+
+.form-note-input {
+  background-color: #fff;
+  border: none;
+  outline: none;
+  padding: 10px;
+}
+
+.form-note-input::placeholder {
+  font-size: 1.2rem;
+}
+
+.button-colors-container {
+  position: absolute;
+  bottom: 30px;
+  left: 20px;
+  display: flex;
+  column-gap: 10px;
+  background-color: #fff;
+}
+
+.button-colors-container .red {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: red;
+  border: none;
+}
+
+.button-colors-container .purple {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: purple;
+  border: none;
+}
+
+.button-colors-container .yellow {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: yellow;
+  border: none;
+}
+
+.button-colors-container .blue {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: blue;
+  border: none;
+}
+
+.button-colors-container .green {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: green;
+  border: none;
+}
+
+.submit-button {
+  position: absolute;
+  right: 20px;
+  bottom: 30px;
+  background-color: #fff;
+}
+.submit-button button {
+  padding: 10px 40px;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #44c767;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
