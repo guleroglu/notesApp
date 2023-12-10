@@ -12,6 +12,9 @@
 }
 
 .form-note-input {
+  max-width: 95vw;
+  min-width: 400px;
+  min-height: 120px;
   background-color: #fff;
   border: none;
   outline: none;
