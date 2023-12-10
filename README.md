@@ -41,4 +41,4 @@ Technologies I used in this project
   npm run dev
 ```
 
-![Screenshot📸](https://ibb.co/SVSTgFy)
+![Screenshot📸](https://i.ibb.co/0Y5NLH2/Screenshot-2023-12-10-223817.png)
